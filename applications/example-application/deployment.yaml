@@ -13,7 +13,7 @@ spec:
         app: example-application
     spec:
       containers:
-      - image: ramesh291989/example-application:v3
+      - image: ramesh291989/example-application:v1
         name: example-application
         ports:
         - containerPort: 8080
