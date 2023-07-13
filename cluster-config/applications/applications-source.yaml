@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: ssh://git@github.com//example-environment
+  url: ssh://git@github.com/ramesh291989/example-environment
